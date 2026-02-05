@@ -8,7 +8,7 @@ Funcionamiento:
 - Al retroceder, la página actual pasa a la lista de páginas siguientes y se recupera la última página visitada, y al avanzar ocurre el proceso inverso.
 - Opción de recargar la página actual.
 El sistema se controla mediante un menú interactivo en consola.
-Se usan: clases, listas, métodos, condicionales y ciclos.
++ Se usan: clases, listas, métodos, condicionales y ciclos.
 
 
 # Problema 2
@@ -19,7 +19,7 @@ Funcionamiento:
 - Cuando el usuario ingresa un prefijo, el método autocomplete recorre la lista de palabras.
 - Se comparan las palabras almacenadas con el prefijo y se guardan aquellas que coinciden.
 - Se devuelve una lista con todas las coincidencias encontradas.
-Se usan: listas, recorridos con ciclos, condicionales y cadenas de texto.
++ Se usan: listas, recorridos con ciclos, condicionales y cadenas de texto.
 
 
 # Problema 3
@@ -30,4 +30,4 @@ Funcionamiento:
 - El método addPurchase registra nuevas compras.
 - El método getRecommendations compara las compras del usuario con las de otros usuarios.
 - Se recomiendan productos que el usuario aún no ha comprado, pero que otros usuarios sí.
-Se usan: diccionarios, listas, ciclos anidados, condicionales y encapsulación mediante clases.
++ Se usan: diccionarios, listas, ciclos anidados, condicionales y encapsulación mediante clases.
