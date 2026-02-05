@@ -8,7 +8,7 @@ Funcionamiento:
 - Al retroceder, la página actual pasa a la lista de páginas siguientes y se recupera la última página visitada, y al avanzar ocurre el proceso inverso.
 - Opción de recargar la página actual.
 El sistema se controla mediante un menú interactivo en consola.
-+ Se usan: clases, listas, métodos, condicionales y ciclos.
++ Se usan: clases, pilas, métodos, condicionales y ciclos.
 
 
 # Problema 2
